@@ -1,0 +1,14 @@
+D:\C#\LearnC#DPEducation\bin\Debug\net10.0\LearnC#DPEducation.exe
+D:\C#\LearnC#DPEducation\bin\Debug\net10.0\LearnC#DPEducation.deps.json
+D:\C#\LearnC#DPEducation\bin\Debug\net10.0\LearnC#DPEducation.runtimeconfig.json
+D:\C#\LearnC#DPEducation\bin\Debug\net10.0\LearnC#DPEducation.dll
+D:\C#\LearnC#DPEducation\bin\Debug\net10.0\LearnC#DPEducation.pdb
+D:\C#\LearnC#DPEducation\obj\Debug\net10.0\LearnC#DPEducation.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\LearnC#DPEducation\obj\Debug\net10.0\LearnC#DPEducation.AssemblyInfoInputs.cache
+D:\C#\LearnC#DPEducation\obj\Debug\net10.0\LearnC#DPEducation.AssemblyInfo.cs
+D:\C#\LearnC#DPEducation\obj\Debug\net10.0\LearnC#DPEducation.csproj.CoreCompileInputs.cache
+D:\C#\LearnC#DPEducation\obj\Debug\net10.0\LearnC#DPEducation.dll
+D:\C#\LearnC#DPEducation\obj\Debug\net10.0\refint\LearnC#DPEducation.dll
+D:\C#\LearnC#DPEducation\obj\Debug\net10.0\LearnC#DPEducation.pdb
+D:\C#\LearnC#DPEducation\obj\Debug\net10.0\LearnC#DPEducation.genruntimeconfig.cache
+D:\C#\LearnC#DPEducation\obj\Debug\net10.0\ref\LearnC#DPEducation.dll
