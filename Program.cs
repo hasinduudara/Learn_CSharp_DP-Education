@@ -146,6 +146,44 @@
 //     }
 // }
 
+// using System;
+
+// namespace TypeCasting
+// {
+//     class Program
+//     {
+//         static void Main(string[] args)
+//         {
+//             int myInt = 10;
+//             double myDouble = 5.61;
+
+//             Console.WriteLine(Convert.ToString(myInt));
+//             Console.WriteLine(Convert.ToInt32(myDouble));
+
+//             Console.ReadLine();
+//         }
+//     }
+// }
+
+// User Inputs
+
+// using System;
+
+// namespace TypeCasting
+// {
+//     class Program
+//     {
+//         static void Main(string[] args)
+//         {
+//             Console.WriteLine("Enter your name: ");
+//             string name = Console.ReadLine();
+
+//             Console.WriteLine("Hello " + name + "!");
+//             Console.ReadLine();
+//         }
+//     }
+// }
+
 using System;
 
 namespace TypeCasting
@@ -154,12 +192,10 @@ namespace TypeCasting
     {
         static void Main(string[] args)
         {
-            int myInt = 10;
-            double myDouble = 5.61;
+            Console.WriteLine("Enter your age: ");
+            int age = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine(Convert.ToString(myInt));
-            Console.WriteLine(Convert.ToInt32(myDouble));
-
+            Console.WriteLine("You are " + age + " years old.");
             Console.ReadLine();
         }
     }
