@@ -102,3 +102,65 @@
 //         }
 //     }
 // }
+
+
+
+
+// Type Casting
+
+// using System;
+
+// namespace TypeCasting
+// {
+//     class Program
+//     {
+//         static void Main(string[] args)
+//         {
+//             int myInt = 10;
+//             double myDouble = myInt;
+
+//             Console.WriteLine(myInt);
+//             Console.WriteLine(myDouble);
+
+//             Console.ReadLine();
+//         }
+//     }
+// }
+
+// using System;
+
+// namespace TypeCasting
+// {
+//     class Program
+//     {
+//         static void Main(string[] args)
+//         {
+//             double myDouble = 10.5;
+//             int myInt = (int)myDouble;
+
+//             Console.WriteLine(myDouble);
+//             Console.WriteLine(myInt);
+
+//             Console.ReadLine();
+//         }
+//     }
+// }
+
+using System;
+
+namespace TypeCasting
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int myInt = 10;
+            double myDouble = 5.61;
+
+            Console.WriteLine(Convert.ToString(myInt));
+            Console.WriteLine(Convert.ToInt32(myDouble));
+
+            Console.ReadLine();
+        }
+    }
+}
